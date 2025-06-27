@@ -1,4 +1,4 @@
-Script para crear la base de datos:
+Script que use para crear la base de datos:
 
 CREATE DATABASE shopAll;
 use shopAll;
